@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRevels1730ex1b", "SRevels1730ex1b\SRevels1730ex1b.csproj", "{66DFCA1D-08F0-4C71-9FFD-7A2660E692D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srevels1c1", "srevels1c1\srevels1c1.csproj", "{DF59A842-14EC-49C5-981B-ACA163BF9041}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{66DFCA1D-08F0-4C71-9FFD-7A2660E692D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66DFCA1D-08F0-4C71-9FFD-7A2660E692D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66DFCA1D-08F0-4C71-9FFD-7A2660E692D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF59A842-14EC-49C5-981B-ACA163BF9041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF59A842-14EC-49C5-981B-ACA163BF9041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF59A842-14EC-49C5-981B-ACA163BF9041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF59A842-14EC-49C5-981B-ACA163BF9041}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
